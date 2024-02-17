@@ -28,7 +28,7 @@ int printbin(va_list val)
 	if (ct == 0)
 	{
 		ct++;
-		putchar_('0')
+		putchar_('0');
 	}
 	return (ct);
 }
